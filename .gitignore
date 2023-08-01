@@ -1,0 +1,4 @@
+# Project exclude paths
+/springboot_01_demo/target/
+/springboot_08_mybatisplus/target/
+/springboot_09_security/target/
